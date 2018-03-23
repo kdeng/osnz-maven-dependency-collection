@@ -1,0 +1,1 @@
+# osnz-maven-dependency-collection
