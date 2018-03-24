@@ -1,9 +1,12 @@
 # OSNZ Maven Dependency Collection
 
 #### Archetype
-* [nz.net.osnz:java-archetype](https://github.com/OpenSourceNZ/java-archetype) : ![Maven Central](https://img.shields.io/maven-central/v/nz.net.osnz/java-archetype.svg?style=flat-square)
-* [nz.net.osnz:groovy-archetype](https://github.com/OpenSourceNZ/groovy-archetype) : ![Maven Central](https://img.shields.io/maven-central/v/nz.net.osnz/groovy-archetype.svg?style=flat-square)
-* [nz.net.osnz:scala-archetype](https://github.com/OpenSourceNZ/scala-archetype) : ![Maven Central](https://img.shields.io/maven-central/v/nz.net.osnz/scala-archetype.svg?style=flat-square)
+| Name   	|      Version      |
+|----------	|:-------------:	|
+| [nz.net.osnz:java-archetype](https://github.com/OpenSourceNZ/java-archetype)  |  ![Maven Central](https://img.shields.io/maven-central/v/nz.net.osnz/java-archetype.svg?style=flat-square) 	|
+| [nz.net.osnz:groovy-archetype](https://github.com/OpenSourceNZ/groovy-archetype)  |    ![Maven Central](https://img.shields.io/maven-central/v/nz.net.osnz/groovy-archetype.svg?style=flat-square)   	|
+| [nz.net.osnz:scala-archetype](https://github.com/OpenSourceNZ/scala-archetype)    | ![Maven Central](https://img.shields.io/maven-central/v/nz.net.osnz/scala-archetype.svg?style=flat-square)	|
+
 
 #### Parent
 * [nz.net.osnz.parent:central-parent](https://github.com/OpenSourceNZ/central-parent) : ![Maven Central](https://img.shields.io/maven-central/v/nz.net.osnz.parent/central-parent.svg?style=flat-square)
